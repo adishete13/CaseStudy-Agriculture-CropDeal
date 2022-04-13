@@ -1,0 +1,35 @@
+/* navbar */
+
+.example-spacer {
+    flex: 1 1 auto;
+}
+
+.mat-toolbar.mat-primary {
+    background: cornflowerblue;
+    color: rgb(224, 221, 221);
+}
+
+span {
+    font-size: 25px;
+}
+
+p {
+    margin-left: -20px;
+}
+
+.navColor {
+    background-color: rgb(243, 202, 69);
+}
+
+.headerCard {
+    background-color: rgb(243, 163, 57);
+    height: 60px;
+    padding-top: 0px;
+    border-bottom: 2px solid gray;
+    border-left: 2px solid gray;
+}
+
+
+/* img{
+    height: 40px;
+  } */
